@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohlinwasues.github.io/sitemap.xml
